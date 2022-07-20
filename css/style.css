@@ -1,0 +1,25 @@
+.imgheight1{
+    height: 500px !important;
+}
+.footer11{
+    background-color: #1f2d6b;
+}
+.conflexx{
+    display:flex;
+    flex-direction: row;   
+}
+.border11{
+    border-bottom: 2px solid #cef14d;
+}
+.navbar11{
+ padding-top: 0px;
+ padding-bottom: 0px ;
+ height:50px;
+}   
+.greentext {
+ color: #cef14d ;
+ font-weight: 500;
+}
+h5{
+    color: yellow;
+}
